@@ -52,3 +52,7 @@ button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }
+
+.link{
+    color: var(--cor-secundaria);
+}
